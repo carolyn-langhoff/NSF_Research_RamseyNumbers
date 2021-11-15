@@ -3,7 +3,7 @@ The purpose of this being listed is to demonstrate my ability to efficiently sol
 
 
 My program was a crucial part of our research and resulted in the two papers listed below with the second paper being improved upon by my program's ability to automate the 
-calculations, and provide us with even more than could be calculcated by hand.
+calculations, and provide us with even more data than could be calculcated by hand.
 
 Generalizing p-goodness to ordered graphs. With Jeremy Alm, Patrick Bahls, and Kayla Coffey.
 Submitted to Proceedings of the 51st Southeastern Conference on Combinatorics, Graph Theory, and Computing.
